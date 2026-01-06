@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Shubham Singh  
 
-<!--
-**shubhamsingh0121/shubhamsingh0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Developer | 💻 UI-Focused | 🤖 AI-Assisted Web Apps  
 
-Here are some ideas to get you started:
+I’m a passionate frontend developer with strong skills in HTML, CSS, and JavaScript, currently building modern, responsive, and AI-enhanced web applications using React. I enjoy creating clean UI, improving user experience, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies
+
+### 🧑‍💻 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Responsive Web Design
+
+## Programming Languages
+- C
+- C++
+- Java
+- Python
+
+### 🎨 UI / Design
+- Figma  
+- Canva  
+- UI/UX Principles  
+
+### ⚙️ Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Netlify / Vercel  
+
+### 🤖 AI & Modern Tech
+- AI API Integration (ChatGPT / Gemini)  
+- Prompt Engineering (Basics)  
+- AI-assisted frontend development  
+
+---
+
+## 📌 Projects
+- 🔹 Smart YouTube Content Dashboard  
+- 🔹 E-commerce Frontend Website  
+
+👉 Check my repositories below 👇
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/your-link  
+ 
